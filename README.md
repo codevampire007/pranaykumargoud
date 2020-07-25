@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Hey there](https://github.com/pranaykumargoud/pranaykumargoud/blob/master/Intro.png?raw=true)
 
