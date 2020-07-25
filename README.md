@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
-
-![Hey there](https://github.com/pranaykumargoud/pranaykumargoud/blob/master/intro.png?raw=true)
-
+[<img src="https://github.com/pranaykumargoud/pranaykumargoud/blob/master/intro.png?raw=true" >](https://www.linkedin.com/in/pranaykumargoud/)
 <!--
 **pranaykumargoud/pranaykumargoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
