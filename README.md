@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://image.flaticon.com/icons/svg/123/123718.svg" border="25px" width="25">](https://www.linkedin.com/in/pranaykumargoud/)pranaykumargoud  [<img src="https://image.flaticon.com/icons/svg/123/123728.svg"  width="25">](https://www.linkedin.com/in/pranaykumargoud/)code_vampire
+[<img src="https://image.flaticon.com/icons/svg/123/123718.svg" border="25px" width="25">](https://www.linkedin.com/in/pranaykumargoud/)     [<img src="https://image.flaticon.com/icons/svg/123/123728.svg"  width="25">](https://www.linkedin.com/in/pranaykumargoud/)
 
 
