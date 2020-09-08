@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- ### Connect with me: -->
-
+<p align="center">
 [<img align="left" alt="pranaykumargoud-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pranaykumargoud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pranaykumargoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pranaykumargoud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+</p>
 
 [website]: https://pranaykumargoud.github.io/
 [twitter]: https://twitter.com/code__vampire
