@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img src="https://image.flaticon.com/icons/svg/123/123718.svg" border="25px" width="25">](https://www.linkedin.com/in/pranaykumargoud/) [<img src="https://image.flaticon.com/icons/svg/123/123728.svg"  width="25">](https://www.linkedin.com/in/pranaykumargoud/)    [<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"  width="29">](https://www.linkedin.com/in/pranaykumargoud/)   [<img src="https://image.flaticon.com/icons/svg/123/123726.svg"  width="29">](https://www.linkedin.com/in/pranaykumargoud/)
 -->
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 [<img align="left" alt="pranaykumargoud-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pranaykumargoud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
