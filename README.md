@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/pranay.artisan/
 [linkedin]: https://www.linkedin.com/in/pranaykumargoud/
 
+<br/>
 
  ## Github stats
 
