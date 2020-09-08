@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/pranay.artisan/
 [linkedin]: https://www.linkedin.com/in/pranaykumargoud/
 
+<br>
+<img align="left" alt="pranaykumargoud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pranaykumargoud&show_icons=true&hide_border=true" />
