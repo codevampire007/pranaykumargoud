@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/pranay.artisan/
 [linkedin]: https://www.linkedin.com/in/pranaykumargoud/
 [medium]: https://medium.com/@pranaygoud36
+
+## Languages used
+
+<img align="left" alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykumargoud&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
