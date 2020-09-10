@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/pranaykumargoud/
 [medium]: https://medium.com/@pranaygoud36
 
+
+
 <br/>
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+<br/>
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/pranaykumargoud/pranaykumargoud)
 
