@@ -51,15 +51,6 @@ Here are some ideas to get you started:
 [![Repos Badge](https://badges.pufler.dev/repos/pranaykumargoud)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/pranaykumargoud)](https://badges.pufler.dev)
 
-<br/>
-<br/>
-
-
-<img width="22px" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img width="22px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img width="22px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img width="22px" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img width="22px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
 
