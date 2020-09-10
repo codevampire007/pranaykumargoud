@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/pranaykumargoud/pranaykumargoud)
+[![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/git-badges)](https://badges.pufler.dev/pranaykumargoud/pranaykumargoud)
 
