@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 
 [![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/pranaykumargoud)](https://badges.pufler.dev)
 
+<br\><br\><br\><br\>
+[![Pranay kumar Medium](https://github-readme-medium.vercel.app/?username=pranaygoud36)](https://medium.com/@pranaygoud36)
