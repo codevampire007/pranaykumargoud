@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 [![Repos Badge](https://badges.pufler.dev/repos/pranaykumargoud)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/pranaykumargoud)](https://badges.pufler.dev)
 
+<br/>
+ <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
 
