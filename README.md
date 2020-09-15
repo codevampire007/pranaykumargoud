@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 [![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/pranaykumargoud)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/pranaykumargoud)](https://badges.pufler.dev)
-
+[![Gists Badge](https://badges.pufler.dev/gists/pranaykumargoud)](https://badges.pufler.dev)
 
 <p >
  <a target="_blank"href="https://medium.com/@pranaygoud36"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
