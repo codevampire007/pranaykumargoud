@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/code__vampire
 [instagram]: https://www.instagram.com/pranay.artisan/
 [linkedin]: https://www.linkedin.com/in/pranaykumargoud/
-[medium]: https://medium.com/@pranaygoud36
+[medium]: https://medium.com/@pranaykumargoud
 
 
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![Gists Badge](https://badges.pufler.dev/gists/pranaykumargoud)](https://gist.github.com/pranaykumargoud)
 
 <p >
- <a target="_blank"href="https://medium.com/@pranaygoud36"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
+ <a target="_blank"href="https://medium.com/@pranaykumargoud"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 <a target="_blank"href="https://twitter.com/code__vampire"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
